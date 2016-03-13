@@ -1,7 +1,6 @@
-# Symphony-Web
+# Interview test forSymphony- Web Developer
 Test for Eliza Wiraatmadja 
 
-
-Web Developer test. 
-Tried to mimic an image.
+Requirements
+I had one hour to mimic template.png 
 
